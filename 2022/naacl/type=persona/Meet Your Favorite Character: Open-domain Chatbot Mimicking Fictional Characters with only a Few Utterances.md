@@ -126,8 +126,7 @@ pseudo-context 대신에 character example utterance에 관련된 실제 context
     - PDP methods는 다른 베이스라인들과 비교하였을 때 살짝 낮은 response coherency를 보였음. \
     이는 PDP 방식의 $(c_i, u_i)$ pair 내에 불일치가 생겨 모델의 일관성에 부정적인 영향을 미쳤기 때문으로 추정
     - 또한 그림 1의 "Yippie ki-yi-yay!"같은 경우에는 캐릭터의 스타일을 강력하게 반영하다보니 open-domain에 관련이 없어 MaUdE 점수가 감소할 수 있음. 
-- **Applicability of PDP to other language models** \
-![alt text](../../../images/PDP_table3.png)
+
 # Reference
 - Style-controlling conversation models
     - [(2020 AAAI) Emotional chatting machine: Emotional conversation generation with internal and external memory](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/11325&hl=ko&sa=T&oi=gsr-r&ct=res&cd=0&d=13075172936856719627&ei=CuQtZt7jHouL6rQP09Su8AI&scisig=AFWwaeaz57iK_R0f1d5ajbwM4VRY)
